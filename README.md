@@ -1,6 +1,6 @@
 # Craft Beer Order Website
 
-This is a craft beer order website built with Vite. The project supports local breweries and promotes the local community. Below are the instructions to run and explore the features of the website. [Go visit](https://brewscape-northeasternuniversity.koyeb.app/) !
+This is a craft beer order website built with Vite. The project supports local breweries and promotes the local community. Below are the instructions to run and explore the features of the website. [Order now](https://brewscape-northeasternuniversity.koyeb.app/).
 
 ## Features
 
